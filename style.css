@@ -198,7 +198,7 @@ span {
 .box-image {
     height: 400px;
     background-repeat: no-repeat;
-    background-size: cover;     /*cover all width and height the backgrounf image */
+    background-size: cover;    
    
 }
 
@@ -417,7 +417,7 @@ footer {
     background-color: #37475a;
     color:white;
     height: 50px;
-    display: flex;   /* 3 steps to learn 1st  display : flex ,justify-content : center, alihn items center */                    
+    display: flex;                      
     justify-content: center;
     align-items: center;
     font-size: 0.90rem;
